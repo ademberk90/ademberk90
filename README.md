@@ -8,6 +8,8 @@ I'm a self-taught passionate developer from Turkey
 
 - 💼 Salesforce Developer at [Coredet](http://coredet.com/)
 
+- I’m currently learning React
+- 
 - ❤️ I love writing Javascript, and building fun experiments on type-level
 
 
