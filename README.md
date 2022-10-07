@@ -19,7 +19,8 @@ I'm a self-taught passionate developer from Turkey
 <code><img height="20" alt="mongodb" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/mongodb/mongodb.png"></code>
 <code><img height="20" alt="nodejs" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>    
 
-
+<a href="https://www.linkedin.com/in/peterthehan"><img alt="LinkedIn" title="LinkedIn" height="48" width="48" src="assets/linkedin.svg"></a>
+  
 | <a href="https://github.com/ademberk90/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=ademberk90&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/ademberk90/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ademberk90&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ------------- | ------------- |
 
