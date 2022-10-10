@@ -22,8 +22,9 @@ Adem Berk</a></h1>
 - 💬 Ask me about **Salesforce & React Js**
 
 - 📫 How to reach me **ademberk90@gmail.com**
-
-
+- 
+br/>
+br/>
 <br/>
 <h3 align="center" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Connect with me 🤝 </h3>
 <p align="center">
